@@ -1,2 +1,3 @@
 # Discord Bot
-A discord bot us
+
+A discord bot using NodeJSfdsfs
